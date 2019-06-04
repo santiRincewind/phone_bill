@@ -1,6 +1,6 @@
 # phone_bill
 
-This is a repository where you can find the source code with the Santiago Iñigo's solution for a phone bill calculation test.
+In this project, you can find the source code proposing the Santiago Iñigo's solution for a phone bill calculation test.
 
 To run the program, execute the main.py file and then, select between 'numbers' or 'calls' choices to show the info, related to cost and duration and grouped by phone numbers or calls separately.
 
